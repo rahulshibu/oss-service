@@ -1,4 +1,4 @@
-module github.com/rahulshibu/oss-service.git
+module github.com/rahulshibu/oss-service
 
 go 1.13
 
